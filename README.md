@@ -16,6 +16,6 @@ The final game will feature two gamemodes: Story and Skirmish, which are singlep
 
 Essentially a player-vs-AI experience, the story will follow Overwatch's reinstatement as a peacekeeping force and challenge the player to track down and eliminate the terrorist group known as Talon. However, this is an extremely long-term goal, and Skirmish is the largest priority as of the moment.
 
-<b>*whispers* Any plans for monetization?</b>
+<b>So...any plans for monetization?</b>
 
 Absolutely not. OverCom is a project meant for fun; having a price attached to it is extremely unlikely.
