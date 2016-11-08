@@ -2,7 +2,7 @@
 
 <b>What Is OverCom?</b>
 
-OverCom is a fan-created game set in Blizzard’s Overwatch universe, featuring turn-based squad combat inspired by the likes of Firaxis's XCOM. All characters from Overwatch will be faithfully re-created in this unique setting, complete with their abilities, characteristics, and ultimates. 
+OverCom is a fan-created game set in Blizzard’s Overwatch universe, featuring turn-based squad combat inspired by the likes of Firaxis's XCOM. All characters from Overwatch will be faithfully re-created in this unique setting, complete with their abilities, characteristics, and ultimates. The game itself is built in Unity 3D and off of the TBS Framework, available at https://www.assetstore.unity3d.com/en/#!/content/50282. 
 
 <b>What can I expect?</b>
 
