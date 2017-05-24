@@ -10,7 +10,7 @@ OverCom’s core gameplay revolves around tactical turn-based combat missions, w
 
 <b>I see this is marked as a work in progress.</b>
 
-Indeed, and the current version seen on Github is not guaranteed to work. You have been warned!
+Indeed, and with the exception of an extremely loose prototype here on Github, much of the current work is being put into planning out abilities, mechanics, etc. 
 
 That being said, the final game will feature two gamemodes: Story and Skirmish, which are singleplayer and multiplayer respectively. Skirmish is currently being developed and will allow two players to battle each other with 6-unit squads. This mode will feature the heaviest inspiration from Overwatch, including no restrictions as to who can add which characters to their squads. Create well-rounded teams for tense matches, or throw sense out the window with a dozen supports – the choice is up to you.
 
